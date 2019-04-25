@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="2" failures="0" name="in.javahome.myweb.controller.CalculatorTest" time="0.025" errors="0" skipped="0">
+<testsuite tests="2" failures="0" name="in.javahome.myweb.controller.CalculatorTest" time="0.037" errors="0" skipped="0">
   <properties>
     <property name="java.vendor" value="Oracle Corporation"/>
     <property name="JOB_NAME" value="hello maven"/>
@@ -27,8 +27,8 @@
     <property name="ProgramFiles" value="C:\Program Files (x86)"/>
     <property name="user.language" value="en"/>
     <property name="JOB_BASE_NAME" value="hello maven"/>
-    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/hello%20maven/23/display/redirect?page=changes"/>
-    <property name="BUILD_DISPLAY_NAME" value="#23"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/hello%20maven/24/display/redirect?page=changes"/>
+    <property name="BUILD_DISPLAY_NAME" value="#24"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_201\jre\bin"/>
     <property name="LOCALAPPDATA" value="C:\WINDOWS\system32\config\systemprofile\AppData\Local"/>
     <property name="java.version" value="1.8.0_201"/>
@@ -40,7 +40,7 @@
     <property name="PROCESSOR_ARCHITEW6432" value="AMD64"/>
     <property name="classpath" value=""/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_201\jre\lib\endorsed"/>
-    <property name="BUILD_ID" value="23"/>
+    <property name="BUILD_ID" value="24"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="file.encoding.pkg" value="sun.io"/>
@@ -53,7 +53,7 @@
     <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_201\jre"/>
     <property name="java.vm.info" value="mixed mode"/>
     <property name="os.version" value="6.3"/>
-    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/hello%20maven/23/display/redirect"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/hello%20maven/24/display/redirect"/>
     <property name="POM_VERSION" value="0.16.0-SNAPSHOT"/>
     <property name="configsetroot" value="C:\WINDOWS\ConfigSetRoot"/>
     <property name="TMP" value="C:\WINDOWS\TEMP"/>
@@ -77,7 +77,7 @@
     <property name="VBOX_MSI_INSTALL_PATH" value="C:\Program Files\Oracle\VirtualBox\"/>
     <property name="user.home" value="C:\WINDOWS\system32\config\systemprofile"/>
     <property name="PUBLIC" value="C:\Users\Public"/>
-    <property name="BUILD_TAG" value="jenkins-hello maven-23"/>
+    <property name="BUILD_TAG" value="jenkins-hello maven-24"/>
     <property name="JENKINS_SERVER_COOKIE" value="3b2d67a2e075fc11"/>
     <property name="HUDSON_URL" value="http://localhost:8080/"/>
     <property name="ProgramData" value="C:\ProgramData"/>
@@ -90,7 +90,7 @@
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="maven.home" value="C:\Program Files (x86)\apache-maven-3.3.9"/>
     <property name="java.class.path" value="C:\Program Files (x86)\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven33-agent-1.12.jar;C:\Program Files (x86)\apache-maven-3.3.9\boot\plexus-classworlds-2.5.2.jar;C:\Program Files (x86)\apache-maven-3.3.9/conf/logging"/>
-    <property name="sun.java.command" value="jenkins.maven3.agent.Maven33Main C:\Program Files (x86)\apache-maven-3.3.9 C:\Program Files (x86)\Jenkins\war\WEB-INF\lib\remoting-3.27.jar C:\Program Files (x86)\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven33-interceptor-1.12.jar C:\Program Files (x86)\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.12.jar 54157"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven33Main C:\Program Files (x86)\apache-maven-3.3.9 C:\Program Files (x86)\Jenkins\war\WEB-INF\lib\remoting-3.27.jar C:\Program Files (x86)\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven33-interceptor-1.12.jar C:\Program Files (x86)\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.12.jar 60578"/>
     <property name="Path" value="C:\Program Files\Java\jdk1.8.0_201/bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Java\jre1.8.0_201\bin;C:\apache-ant-1.9.9\bin;C:\Program Files\apache-maven-3.6.0;\bin;%GRADLE_HOME%/bin;C:\opscode\embedded;C:\Program Files\Amazon\AWSCLI\;C:\Program Files\apache-maven-3.6.0;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk1.8.0_201\bin;"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="PROCESSOR_ARCHITECTURE" value="x86"/>
@@ -105,7 +105,7 @@
     <property name="HUDSON_HOME" value="C:\Program Files (x86)\Jenkins"/>
     <property name="PATH+MAVEN" value="C:\Program Files (x86)\apache-maven-3.3.9/bin"/>
     <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
-    <property name="BUILD_URL" value="http://localhost:8080/job/hello%20maven/23/"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/hello%20maven/24/"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="os.arch" value="amd64"/>
@@ -118,7 +118,7 @@
 "/>
     <property name="MAVEN_HOME" value="C:\Program Files (x86)\apache-maven-3.3.9"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
-    <property name="BUILD_NUMBER" value="23"/>
+    <property name="BUILD_NUMBER" value="24"/>
     <property name="BASE" value="C:\Program Files (x86)\Jenkins"/>
     <property name="JENKINS_URL" value="http://localhost:8080/"/>
     <property name="PROCESSOR_REVISION" value="4501"/>
@@ -134,6 +134,6 @@
     <property name="PSModulePath" value="C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\"/>
     <property name="easyplussdk" value="&quot;C:\Program Files (x86)\Common Files\lenovo\easyplussdk\bin&quot;"/>
   </properties>
-  <testcase classname="in.javahome.myweb.controller.CalculatorTest" name="testAdd" time="0.013"/>
-  <testcase classname="in.javahome.myweb.controller.CalculatorTest" name="testMultiply" time="0.012"/>
+  <testcase classname="in.javahome.myweb.controller.CalculatorTest" name="testAdd" time="0.037"/>
+  <testcase classname="in.javahome.myweb.controller.CalculatorTest" name="testMultiply" time="0"/>
 </testsuite>
